@@ -2,7 +2,7 @@ node {
   def remote = [:]
   remote.name = 'amoljadhav'
   remote.host = '192.168.225.152'
-  remote.user = 'amoljadhav'
+  remote.user = '*********'
   remote.password = 'Aj@12697'
   remote.allowAnyHosts = true
   stage('Remote SSH') {
